@@ -1,7 +1,12 @@
 # PiWars2021
 
-Code and Deisgns for Pi Wars 2021 @Home
-=======================================
+Open Source Code and Deisgns for Pi Wars 2021 @Home
+===================================================
+
+For more details about Pi Wars see [piwars.org](https://powars.org "Piwars")
+
+
+
 
 
  
