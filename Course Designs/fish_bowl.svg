@@ -68,7 +68,7 @@
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
-     showguides="true"
+     showguides="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="svg15"
      inkscape:window-maximized="1"
@@ -93,28 +93,7 @@
      pagecolor="#ffffff"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true">
-    <sodipodi:guide
-       id="guide878"
-       orientation="0,-1"
-       position="286.60558,779.40362" />
-    <sodipodi:guide
-       id="guide880"
-       orientation="0,-1"
-       position="1012.9962,579.40363" />
-    <sodipodi:guide
-       id="guide882"
-       orientation="0,-1"
-       position="307.22437,576.40363" />
-    <sodipodi:guide
-       id="guide884"
-       orientation="1,0"
-       position="383.70643,579.40363" />
-    <sodipodi:guide
-       id="guide886"
-       orientation="1,0"
-       position="617.38526,582.40363" />
-  </sodipodi:namedview>
+     inkscape:bbox-paths="true" />
   <path
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
      id="path888"
