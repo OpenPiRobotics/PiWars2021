@@ -12,7 +12,7 @@ Fish Bowl
 
 ![Fish Bowel Render](https://github.com/OpenPiRobotics/PiWars2021/blob/master/Course%20Designs/fish_bowl-render.PNG)
 
-
+![Fish Bowel wire frame](https://github.com/OpenPiRobotics/PiWars2021/blob/master/Course%20Designs/fish_bowl_two%20v2.png)
 
 
  
